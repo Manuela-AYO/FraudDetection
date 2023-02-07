@@ -1,5 +1,8 @@
 # FraudDetection
 
-Online Fraud Detection
+This project aims to detect frauds on online transactions
 
-# Algorithms designed
+## Algorithms designed
+
+1. Decision Trees 
+2. Random Forests
